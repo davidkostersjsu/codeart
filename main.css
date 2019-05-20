@@ -1,0 +1,18 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+
+body{ /*general style rules for the body section */
+	background-image: url("gif.gif");
+	text-align: center;
+	color: white;
+	font: 72;
+}
+
+img {
+   max-width:100%;
+   height:auto;
+   max-height:100%;
+}
